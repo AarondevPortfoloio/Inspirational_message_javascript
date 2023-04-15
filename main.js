@@ -44,4 +44,4 @@
  }
 
 
- console.log(randomInspiration());
+ randomInspiration();
